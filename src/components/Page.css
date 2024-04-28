@@ -182,6 +182,9 @@ article{
     font-size: large;
     line-height: 25px;
 }
+.icons b{
+	color: green;
+}
 .ins{
     float: right;
     background-color: rgb(50, 241, 152);
