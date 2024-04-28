@@ -64,7 +64,7 @@ function Page() {
 
         <div >
           <div className='icons'>
-           <i> Consultant Count </i>
+           <b> Consultant Count </b>
            <FontAwesomeIcon icon={faPeopleGroup} className='ins'/> <br />
             <strong> 90/900 </strong>
             <p>Today/Period</p>
@@ -72,7 +72,7 @@ function Page() {
           </div>
 
           <div className='icons'>
-           <i> Consultations </i> 
+           <b> Consultations </b> 
            <FontAwesomeIcon icon={faChartBar} className='ins'/> <br />
             <strong> 11/25 </strong>
             <p>Today/Period</p>
@@ -80,7 +80,7 @@ function Page() {
           </div>
 
           <div className='icons'>
-           <i>Labs </i> 
+           <b>Labs </b> 
            <FontAwesomeIcon icon={faFlask} className='ins'/> <br />
             <strong> 25/560 </strong>
             <p>Today/Period</p>
@@ -88,7 +88,7 @@ function Page() {
           </div>
 
           <div className='icons'>
-           <i> Diet Plans </i> 
+           <b> Diet Plans </b> 
            <FontAwesomeIcon icon={faMoneyBill} className='ins'/> <br />
             <strong> 25/250 </strong>
             <p>Today/Period</p>
