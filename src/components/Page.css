@@ -100,11 +100,15 @@ aside{
     height: 90vh;
     background-color: white;  
 }
+aside b{
+    opacity: 0.5;
+}
 ul{
     background-color: rgb(213, 218, 223);
     border-radius: 10px;
     margin: 10px;
-    
+    box-shadow: 5px 5px 2px #888888;
+    opacity: 0.8;
 }
 li{
     text-align: center;
