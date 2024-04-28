@@ -72,7 +72,7 @@ function Page() {
           </div>
 
           <div className='icons'>
-           <i> Consultantions </i> 
+           <i> Consultations </i> 
            <FontAwesomeIcon icon={faChartBar} className='ins'/> <br />
             <strong> 11/25 </strong>
             <p>Today/Period</p>
