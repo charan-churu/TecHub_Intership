@@ -120,6 +120,10 @@ li{
 li:last-child{
     border: none;
 }
+li:hover {
+  background-color: green;
+  colour:white;
+}
 article{
     margin-left: 10%;
 }
